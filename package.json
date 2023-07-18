@@ -1,0 +1,36 @@
+{
+  "name": "@novemberizing/config",
+  "version": "0.0.13",
+  "description": "",
+  "main": "./src/index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/novemberizing/config.git"
+  },
+  "bugs": {
+    "url": "https://gitlab.com/novemberizing/config/issues"
+  },
+  "keywords": [
+    "novemberizing",
+    "nodejs",
+    "javascript",
+    "config"
+  ],
+  "homepage": "https://novemberizing.github.io/config",
+  "scripts": {
+    "test": "mocha --recursive",
+    "doc": "jsdoc -c jsdoc.json"
+  },
+  "author": "",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "@novemberizing/log": "^0.0.9",
+    "@novemberizing/storage": "^0.0.29",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "jsdoc": "^4.0.2",
+    "mocha": "^10.2.0"
+  }
+}
