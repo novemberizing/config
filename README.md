@@ -78,4 +78,4 @@ console.log(o.del("hello"));
 
 ### DOCUMENT
 
-[Novemberizing log api](https://novemberizing.github.io/config/api)
+[Novemberizing config api](https://novemberizing.github.io/config/api)

@@ -76,6 +76,6 @@ console.log(o.get(""));
 console.log(o.del("hello"));
 ```
 
-### Document
+### 문서
 
-[Novemberizing log api](https://novemberizing.github.io/config/api)
+[Novemberizing config api](https://novemberizing.github.io/config/api)
