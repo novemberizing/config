@@ -10,7 +10,6 @@ import ConfigExceptionInvalidParameter from "./config/exception/invalid/Paramete
 /**
  * @class
  * 
- * Config
  */
 export default class Config {
     /**
