@@ -30,7 +30,7 @@ console.log(o.get("hello"));
 console.log(o.del("hello"));
 ```
 
-## 설치
+## INSTALL
 
 Config library can be installed using "npm".
 
@@ -38,7 +38,7 @@ Config library can be installed using "npm".
 npm install --save @novemberizing/config
 ```
 
-## 사용법
+## USAGE
 
 You can create an object by calling `Config.gen()` with a specified URL, and perform `get`, `set`, and `del` commands.
 
@@ -76,6 +76,6 @@ console.log(o.get(""));
 console.log(o.del("hello"));
 ```
 
-### Document
+### DOCUMENT
 
 [Novemberizing log api](https://novemberizing.github.io/config/api)
