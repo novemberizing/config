@@ -67,6 +67,8 @@ export default class Config {
         return this.#json;
     }
 
+    get json(){ return this.#json; }
+
     /**
      * Retrieve data from the key.
      * 
